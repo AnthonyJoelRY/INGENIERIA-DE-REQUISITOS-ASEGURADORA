@@ -54,7 +54,7 @@ La aseguradora gestiona un volumen elevado y creciente de casos A&G recibidos po
 
 ## Alcance
 
-### ✅ Dentro del alcance
+### Dentro del alcance
 
 - Registro y recepción de casos A&G por múltiples canales (portal, email, teléfono, formulario)
 - Consolidación automática de información de sistemas internos (pólizas, historiales, eventos asistenciales)
@@ -65,7 +65,7 @@ La aseguradora gestiona un volumen elevado y creciente de casos A&G recibidos po
 - Trazabilidad completa de todas las acciones significativas sobre cada expediente
 - Controles de acceso por perfil (RBAC) y cifrado de datos sensibles de salud
 
-### ❌ Fuera del alcance
+### Fuera del alcance
 
 - Proceso completo de investigación y resolución de apelaciones y reclamaciones
 - Módulos de pago y liquidación de reclamaciones
