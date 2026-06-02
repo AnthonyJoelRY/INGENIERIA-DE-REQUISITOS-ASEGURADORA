@@ -2,7 +2,7 @@
 
 > Documento de Visión del Producto · v1.1 · Ingeniería de Requisitos · UTPL
 
-Solución de software para el triaje de **Apelaciones, Quejas y Reclamaciones (A&G)** en una aseguradora de salud, desarrollada por Cognizant como proveedor tecnológico.
+Solución de software para el triaje de **Apelaciones, Quejas y Reclamaciones (A&G)** en una aseguradora de salud, desarrollada por **Cognizant** como proveedor tecnológico.
 
 ---
 
@@ -160,7 +160,7 @@ La aseguradora gestiona un volumen elevado y creciente de casos A&G recibidos po
 | CE-05 | ≥ 90% de supervisores usan el panel de seguimiento diariamente en el primer mes | Tasa de uso por perfil (módulo de analítica) | OB-05 |
 | CE-06 | Cero observaciones por falta de trazabilidad en primera auditoría | Informe de auditoría interna (primeros 12 meses) | OB-06 |
 | CE-07 | ≥ 80% de analistas adoptan el STAQ como herramienta principal en el primer mes | Sesiones activas por perfil de analista | OB-01, OB-02 |
-| CE-08 | Disponibilidad del sistema ≥ 99% en horario operativo | Monitoreo de infraestructura del proveedor | Todos |
+| CE-08 | Disponibilidad del sistema ≥ 99% en horario operativo | Monitoreo de infraestructura del proveedor (Cognizant) | Todos |
 
 ---
 
